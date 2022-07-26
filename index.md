@@ -1,7 +1,7 @@
 <img src="heart-icon.jpg" alt="heart" width="15"/> = yes please :DDD  
 <img src="like-icon.jpg" alt="like" width="15"/> = alright :)   
 <img src="dislike-icon.jpg" alt="dislike" width="15"/> = absolutely not   
-<img src="joke-icon.jpg" alt="joke" width="15"/> = jokinglky  
+<img src="joke-icon.jpg" alt="joke" width="15"/> = jokingly 
 <img src="friend-icon.jpg" alt="friend" width="15"/> = only if we're close
 
 ## Names
