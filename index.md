@@ -7,8 +7,7 @@
 ## Names
 
 <img src="heart-icon.jpg" alt="heart" width="15"/> **Rai**   
-<img src="heart-icon.jpg" alt="heart" width="15"/> **Brigette**   
-<img src="heart-icon.jpg" alt="heart" width="15"/> **Ekaitz**     
+<img src="heart-icon.jpg" alt="heart" width="15"/> **Brigette**     
 <img src="joke-icon.jpg" alt="joke" width="15"/> *Gavin*
 
 ## Pronouns
