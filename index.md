@@ -56,7 +56,7 @@
 <img src="like-icon.jpg" alt="like" width="15"/> **sis**    
 <img src="friend-icon.jpg" alt="friend" width="15"/> *sister*   
 
-<img src="dislike-icon.jpg" alt="dislike" width="15"/> pretty   
+<img src="friend-icon.jpg" alt="friend" width="15"/> *pretty*   
 <img src="friend-icon.jpg" alt="friend" width="15"/> *cute*   
 <img src="like-icon.jpg" alt="like" width="15"/> **beautiful**    
 <img src="like-icon.jpg" alt="like" width="15"/> **striking**   
